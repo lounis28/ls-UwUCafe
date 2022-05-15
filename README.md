@@ -2,7 +2,7 @@
 UwU Cafe job for Gabz UwU Cat Cafe map for QBCore
 
 # Privew
-https://streamable.com/7iajup
+https://streamable.com/fn30xu
 
 # Add to qb-core/shared/items.lua
 ```
