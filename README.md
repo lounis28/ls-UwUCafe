@@ -6,7 +6,7 @@ https://youtu.be/fNHBgaulQQc
 
 # Add to qb-core/shared/items.lua
 ```
-	-- mt-UwUCafe
+	-- ls-UwUCafe
 	-- ingredientes
 	["pacote-leite"] 		 = {["name"] = "pacote-leite", 					["label"] = "Pacote de leite", 					    ["weight"] = 1500, 		["type"] = "item", 			["image"] = "leite.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
 	["barra-manteiga"] 		 = {["name"] = "barra-manteiga", 				["label"] = "Barra de manteiga", 					["weight"] = 1500, 		["type"] = "item", 			["image"] = "manteiga.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
